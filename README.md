@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **javaScript, typeScript, python**
 
-- 📫 How to reach me **arash.ghamisi@gmail.cpm**
+- 📫 How to reach me **arash.ghamisi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
